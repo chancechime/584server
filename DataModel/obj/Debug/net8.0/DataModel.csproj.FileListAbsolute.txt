@@ -1,0 +1,15 @@
+C:\Users\coc22585\source\repos\AngularApp1\DataModel\bin\Debug\net8.0\DataModel.deps.json
+C:\Users\coc22585\source\repos\AngularApp1\DataModel\bin\Debug\net8.0\DataModel.dll
+C:\Users\coc22585\source\repos\AngularApp1\DataModel\bin\Debug\net8.0\DataModel.pdb
+C:\Users\coc22585\source\repos\AngularApp1\DataModel\obj\Debug\net8.0\DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coc22585\source\repos\AngularApp1\DataModel\obj\Debug\net8.0\DataModel.AssemblyInfoInputs.cache
+C:\Users\coc22585\source\repos\AngularApp1\DataModel\obj\Debug\net8.0\DataModel.AssemblyInfo.cs
+C:\Users\coc22585\source\repos\AngularApp1\DataModel\obj\Debug\net8.0\DataModel.csproj.CoreCompileInputs.cache
+C:\Users\coc22585\source\repos\AngularApp1\DataModel\obj\Debug\net8.0\DataModel.sourcelink.json
+C:\Users\coc22585\source\repos\AngularApp1\DataModel\obj\Debug\net8.0\DataModel.dll
+C:\Users\coc22585\source\repos\AngularApp1\DataModel\obj\Debug\net8.0\refint\DataModel.dll
+C:\Users\coc22585\source\repos\AngularApp1\DataModel\obj\Debug\net8.0\DataModel.pdb
+C:\Users\coc22585\source\repos\AngularApp1\DataModel\obj\Debug\net8.0\ref\DataModel.dll
+C:\Users\coc22585\source\repos\AngularApp1\DataModel\bin\Debug\net8.0\DataModel.runtimeconfig.json
+C:\Users\coc22585\source\repos\AngularApp1\DataModel\obj\Debug\net8.0\DataModel.csproj.AssemblyReference.cache
+C:\Users\coc22585\source\repos\AngularApp1\DataModel\obj\Debug\net8.0\DataModel.genruntimeconfig.cache

@@ -33,3 +33,4 @@ C:\Users\coc22585\source\repos\AngularApp1\AngularApp1.Server\obj\Debug\net8.0\r
 C:\Users\coc22585\source\repos\AngularApp1\AngularApp1.Server\obj\Debug\net8.0\AngularApp1.Server.pdb
 C:\Users\coc22585\source\repos\AngularApp1\AngularApp1.Server\obj\Debug\net8.0\AngularApp1.Server.genruntimeconfig.cache
 C:\Users\coc22585\source\repos\AngularApp1\AngularApp1.Server\obj\Debug\net8.0\ref\AngularApp1.Server.dll
+C:\Users\coc22585\source\repos\AngularApp1\AngularApp1.Server\obj\Debug\net8.0\AngularApp1.Server.sourcelink.json
