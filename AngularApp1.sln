@@ -4,10 +4,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AngularApp1.Server", "AngularApp1.Server\AngularApp1.Server.csproj", "{C5AAA6C7-2595-401E-82CD-89BBB92DE084}"
+	ProjectSection(ProjectDependencies) = postProject
+		{EB8C912B-92A5-4072-8849-F9312456A59D} = {EB8C912B-92A5-4072-8849-F9312456A59D}
+	EndProjectSection
 EndProject
 Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "angularapp1.client", "angularapp1.client\angularapp1.client.esproj", "{2D172A80-6074-4275-8792-24EC9CBEA4E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataModel", "DataModel\DataModel.csproj", "{EB8C912B-92A5-4072-8849-F9312456A59D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataModel", "DataModel\DataModel.csproj", "{EB8C912B-92A5-4072-8849-F9312456A59D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

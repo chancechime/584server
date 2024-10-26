@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\angularapp1.client",
-    "\\AngularApp1.Server"
+    "\\AngularApp1.Server",
+    "\\DataModel"
   ],
-  "SelectedNode": "\\AngularApp1.Server\\WeatherForecast.cs",
+  "SelectedNode": "\\AngularApp1.Server\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

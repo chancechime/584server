@@ -31,9 +31,7 @@ public partial class City
     public int Population { get; set; }
 
     [Column("country_id")]
-    public int CountryId { get; set; }
+    public int CountryId { get; set; }  // Foreign Key
 
-    [ForeignKey("CountryId")]
-    [InverseProperty("Cities")]
     public virtual Country Country { get; set; } = null!;
 }

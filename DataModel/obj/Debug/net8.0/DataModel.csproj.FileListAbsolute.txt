@@ -13,3 +13,5 @@ C:\Users\coc22585\source\repos\AngularApp1\DataModel\obj\Debug\net8.0\ref\DataMo
 C:\Users\coc22585\source\repos\AngularApp1\DataModel\bin\Debug\net8.0\DataModel.runtimeconfig.json
 C:\Users\coc22585\source\repos\AngularApp1\DataModel\obj\Debug\net8.0\DataModel.csproj.AssemblyReference.cache
 C:\Users\coc22585\source\repos\AngularApp1\DataModel\obj\Debug\net8.0\DataModel.genruntimeconfig.cache
+C:\Users\coc22585\source\repos\AngularApp1\DataModel\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\coc22585\source\repos\AngularApp1\DataModel\bin\Debug\net8.0\appsettings.json

@@ -16,7 +16,7 @@ public partial class Country
     [Column("country")]
     [StringLength(50)]
     [Unicode(false)]
-    public string Country1 { get; set; } = null!;
+    public string Name { get; set; } = null!;
 
     [Column("iso2")]
     [StringLength(2)]
