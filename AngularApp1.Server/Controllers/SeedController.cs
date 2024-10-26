@@ -85,6 +85,7 @@ namespace AngularApp1.Server.Controllers
                     City city = new()
                     {
                         Name = record.city,
+                        Ascii = record.city_ascii,
                         Lat = record.lat,
                         Lng = record.lng,
                         Population = (int)record.population.Value,

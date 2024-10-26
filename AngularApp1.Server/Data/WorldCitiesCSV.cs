@@ -2,7 +2,7 @@
 {
     public class WorldCitiesCSV
     {
-        public string city {  get; set; }
+        public string city { get; set; } = null!;
 
         public string city_ascii { get; set; } = null!;
 

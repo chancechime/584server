@@ -12,14 +12,9 @@ namespace AngularApp1.Server.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class CountriesController : ControllerBase
+    public class CountriesController(ElmosworldContext context) : ControllerBase
     {
-        private readonly ElmosworldContext _context;
-
-        public CountriesController(ElmosworldContext context)
-        {
-            _context = context;
-        }
+        private readonly ElmosworldContext _context = context;
 
         // GET: api/Countries
         [HttpGet]
@@ -56,7 +51,7 @@ namespace AngularApp1.Server.Controllers
 
 
 
-            int citiesPopulation = await _context.Cities.Where(x => x.Id == id).Select(x => x.Population).SumAsync();
+            int citiesPopulation = await _context.Cities.Where(x => x.CountryId == id).Select(x => x.Population).SumAsync();
 
             CountryPopulation countrypopulation = new()
             {

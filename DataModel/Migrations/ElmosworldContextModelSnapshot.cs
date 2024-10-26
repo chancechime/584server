@@ -74,7 +74,7 @@ namespace DataModel.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("Country1")
+                    b.Property<string>("Country")
                         .IsRequired()
                         .HasMaxLength(50)
                         .IsUnicode(false)
