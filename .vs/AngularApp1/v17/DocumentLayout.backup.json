@@ -3,40 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C5AAA6C7-2595-401E-82CD-89BBB92DE084}|AngularApp1.Server\\AngularApp1.Server.csproj|c:\\users\\coc22585\\source\\repos\\angularapp1\\angularapp1.server\\controllers\\seedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5AAA6C7-2595-401E-82CD-89BBB92DE084}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\controllers\\seedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C5AAA6C7-2595-401E-82CD-89BBB92DE084}|AngularApp1.Server\\AngularApp1.Server.csproj|c:\\users\\coc22585\\source\\repos\\angularapp1\\angularapp1.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5AAA6C7-2595-401E-82CD-89BBB92DE084}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5AAA6C7-2595-401E-82CD-89BBB92DE084}|AngularApp1.Server\\AngularApp1.Server.csproj|c:\\users\\coc22585\\source\\repos\\angularapp1\\angularapp1.server\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5AAA6C7-2595-401E-82CD-89BBB92DE084}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5AAA6C7-2595-401E-82CD-89BBB92DE084}|AngularApp1.Server\\AngularApp1.Server.csproj|c:\\users\\coc22585\\source\\repos\\angularapp1\\angularapp1.server\\dto\\countrypopulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5AAA6C7-2595-401E-82CD-89BBB92DE084}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\dto\\countrypopulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB8C912B-92A5-4072-8849-F9312456A59D}|DataModel\\DataModel.csproj|c:\\users\\coc22585\\source\\repos\\angularapp1\\datamodel\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB8C912B-92A5-4072-8849-F9312456A59D}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5AAA6C7-2595-401E-82CD-89BBB92DE084}|AngularApp1.Server\\AngularApp1.Server.csproj|c:\\users\\coc22585\\source\\repos\\angularapp1\\angularapp1.server\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5AAA6C7-2595-401E-82CD-89BBB92DE084}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB8C912B-92A5-4072-8849-F9312456A59D}|DataModel\\DataModel.csproj|c:\\users\\coc22585\\source\\repos\\angularapp1\\datamodel\\migrations\\elmosworldcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB8C912B-92A5-4072-8849-F9312456A59D}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\migrations\\elmosworldcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C5AAA6C7-2595-401E-82CD-89BBB92DE084}|AngularApp1.Server\\AngularApp1.Server.csproj|c:\\users\\coc22585\\source\\repos\\angularapp1\\angularapp1.server\\dto\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5AAA6C7-2595-401E-82CD-89BBB92DE084}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\dto\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB8C912B-92A5-4072-8849-F9312456A59D}|DataModel\\DataModel.csproj|c:\\users\\coc22585\\source\\repos\\angularapp1\\datamodel\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB8C912B-92A5-4072-8849-F9312456A59D}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C5AAA6C7-2595-401E-82CD-89BBB92DE084}|AngularApp1.Server\\AngularApp1.Server.csproj|c:\\users\\coc22585\\source\\repos\\angularapp1\\angularapp1.server\\angularapp1.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C5AAA6C7-2595-401E-82CD-89BBB92DE084}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\angularapp1.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB8C912B-92A5-4072-8849-F9312456A59D}|DataModel\\DataModel.csproj|c:\\users\\coc22585\\source\\repos\\angularapp1\\datamodel\\elmosworldcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB8C912B-92A5-4072-8849-F9312456A59D}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\elmosworldcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8C912B-92A5-4072-8849-F9312456A59D}|DataModel\\DataModel.csproj|c:\\users\\coc22585\\source\\repos\\angularapp1\\datamodel\\migrations\\20241101224950_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8C912B-92A5-4072-8849-F9312456A59D}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\migrations\\20241101224950_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8C912B-92A5-4072-8849-F9312456A59D}|DataModel\\DataModel.csproj|c:\\users\\coc22585\\source\\repos\\angularapp1\\datamodel\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8C912B-92A5-4072-8849-F9312456A59D}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,124 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 415,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "City.cs",
-              "DocumentMoniker": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\DataModel\\City.cs",
-              "RelativeDocumentMoniker": "DataModel\\City.cs",
-              "ToolTip": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\DataModel\\City.cs",
-              "RelativeToolTip": "DataModel\\City.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T01:04:53.007Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CountriesController.cs",
-              "DocumentMoniker": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\AngularApp1.Server\\Controllers\\CountriesController.cs",
-              "RelativeDocumentMoniker": "AngularApp1.Server\\Controllers\\CountriesController.cs",
-              "ToolTip": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\AngularApp1.Server\\Controllers\\CountriesController.cs",
-              "RelativeToolTip": "AngularApp1.Server\\Controllers\\CountriesController.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAqwDsAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T02:32:36.008Z",
+              "Title": "AngularApp1.Server",
+              "DocumentMoniker": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\AngularApp1.Server\\AngularApp1.Server.csproj",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\AngularApp1.Server.csproj",
+              "ToolTip": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\AngularApp1.Server\\AngularApp1.Server.csproj",
+              "RelativeToolTip": "AngularApp1.Server\\AngularApp1.Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-01T23:08:13.213Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SeedController.cs",
-              "DocumentMoniker": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\AngularApp1.Server\\Controllers\\SeedController.cs",
-              "RelativeDocumentMoniker": "AngularApp1.Server\\Controllers\\SeedController.cs",
-              "ToolTip": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\AngularApp1.Server\\Controllers\\SeedController.cs",
-              "RelativeToolTip": "AngularApp1.Server\\Controllers\\SeedController.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAowEQAAAA3AAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\AngularApp1.Server\\Program.cs",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\AngularApp1.Server\\Program.cs",
+              "RelativeToolTip": "AngularApp1.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T02:33:31.077Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CitiesController.cs",
-              "DocumentMoniker": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\AngularApp1.Server\\Controllers\\CitiesController.cs",
-              "RelativeDocumentMoniker": "AngularApp1.Server\\Controllers\\CitiesController.cs",
-              "ToolTip": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\AngularApp1.Server\\Controllers\\CitiesController.cs",
-              "RelativeToolTip": "AngularApp1.Server\\Controllers\\CitiesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T02:32:38.931Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ElmosworldContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\DataModel\\Migrations\\ElmosworldContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "DataModel\\Migrations\\ElmosworldContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\DataModel\\Migrations\\ElmosworldContextModelSnapshot.cs",
-              "RelativeToolTip": "DataModel\\Migrations\\ElmosworldContextModelSnapshot.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAxwEwAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T02:40:04.679Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CityDTO.cs",
-              "DocumentMoniker": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\AngularApp1.Server\\DTO\\CityDTO.cs",
-              "RelativeDocumentMoniker": "AngularApp1.Server\\DTO\\CityDTO.cs",
-              "ToolTip": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\AngularApp1.Server\\DTO\\CityDTO.cs",
-              "RelativeToolTip": "AngularApp1.Server\\DTO\\CityDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T02:42:55.21Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Country.cs",
-              "DocumentMoniker": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\DataModel\\Country.cs",
-              "RelativeDocumentMoniker": "DataModel\\Country.cs",
-              "ToolTip": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\DataModel\\Country.cs",
-              "RelativeToolTip": "DataModel\\Country.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T02:22:28.224Z",
+              "WhenOpened": "2024-11-01T23:03:23.545Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CountryPopulation.cs",
-              "DocumentMoniker": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\AngularApp1.Server\\DTO\\CountryPopulation.cs",
-              "RelativeDocumentMoniker": "AngularApp1.Server\\DTO\\CountryPopulation.cs",
-              "ToolTip": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\AngularApp1.Server\\DTO\\CountryPopulation.cs",
-              "RelativeToolTip": "AngularApp1.Server\\DTO\\CountryPopulation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T02:42:52.34Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "ElmosworldContext.cs",
               "DocumentMoniker": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\DataModel\\ElmosworldContext.cs",
               "RelativeDocumentMoniker": "DataModel\\ElmosworldContext.cs",
               "ToolTip": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\DataModel\\ElmosworldContext.cs",
               "RelativeToolTip": "DataModel\\ElmosworldContext.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBsAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T02:31:05.922Z",
+              "WhenOpened": "2024-11-01T22:39:32.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241101224950_identity.cs",
+              "DocumentMoniker": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\DataModel\\Migrations\\20241101224950_identity.cs",
+              "RelativeDocumentMoniker": "DataModel\\Migrations\\20241101224950_identity.cs",
+              "ToolTip": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\DataModel\\Migrations\\20241101224950_identity.cs",
+              "RelativeToolTip": "DataModel\\Migrations\\20241101224950_identity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T22:50:42.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\DataModel\\AppUser.cs",
+              "RelativeDocumentMoniker": "DataModel\\AppUser.cs",
+              "ToolTip": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\DataModel\\AppUser.cs",
+              "RelativeToolTip": "DataModel\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T22:42:28.476Z",
               "EditorCaption": ""
             },
             {

@@ -1,4 +1,5 @@
 using DataModel;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 WebApplicationBuilder builder = WebApplication.CreateBuilder(args);
@@ -14,6 +15,9 @@ builder.Services.AddDbContext<ElmosworldContext>(
     {
         options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
     });
+
+builder.Services.AddIdentity<AppUser, IdentityRole>() // function that adds identity dependency injection.
+    .AddEntityFrameworkStores<ElmosworldContext>();
 
 WebApplication app = builder.Build();
 

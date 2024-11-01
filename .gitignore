@@ -28,3 +28,9 @@ Thumbs.db
 
 .vs
 .github
+
+#new stuff
+.obj/Debug/*
+bin/Debug/*
+obj/Release/*
+bin/Release/*
