@@ -98,5 +98,10 @@ namespace AngularApp1.Server.Controllers
             }
             return new JsonResult(cityCount);
         }
+
+        [HttpPost("Users")]
+        public async Task<ActionResult> ImportUsersAsync() {
+            
+        }
     }
 }

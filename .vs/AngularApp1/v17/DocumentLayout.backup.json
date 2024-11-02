@@ -7,20 +7,8 @@
       "RelativeMoniker": "D:0:0:{C5AAA6C7-2595-401E-82CD-89BBB92DE084}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5AAA6C7-2595-401E-82CD-89BBB92DE084}|AngularApp1.Server\\AngularApp1.Server.csproj|c:\\users\\coc22585\\source\\repos\\angularapp1\\angularapp1.server\\angularapp1.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C5AAA6C7-2595-401E-82CD-89BBB92DE084}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\angularapp1.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB8C912B-92A5-4072-8849-F9312456A59D}|DataModel\\DataModel.csproj|c:\\users\\coc22585\\source\\repos\\angularapp1\\datamodel\\elmosworldcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB8C912B-92A5-4072-8849-F9312456A59D}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\elmosworldcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB8C912B-92A5-4072-8849-F9312456A59D}|DataModel\\DataModel.csproj|c:\\users\\coc22585\\source\\repos\\angularapp1\\datamodel\\migrations\\20241101224950_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB8C912B-92A5-4072-8849-F9312456A59D}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\migrations\\20241101224950_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB8C912B-92A5-4072-8849-F9312456A59D}|DataModel\\DataModel.csproj|c:\\users\\coc22585\\source\\repos\\angularapp1\\datamodel\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB8C912B-92A5-4072-8849-F9312456A59D}|DataModel\\DataModel.csproj|solutionrelative:datamodel\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C5AAA6C7-2595-401E-82CD-89BBB92DE084}|AngularApp1.Server\\AngularApp1.Server.csproj|c:\\users\\coc22585\\source\\repos\\angularapp1\\angularapp1.server\\jwthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5AAA6C7-2595-401E-82CD-89BBB92DE084}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\jwthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AngularApp1.Server",
-              "DocumentMoniker": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\AngularApp1.Server\\AngularApp1.Server.csproj",
-              "RelativeDocumentMoniker": "AngularApp1.Server\\AngularApp1.Server.csproj",
-              "ToolTip": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\AngularApp1.Server\\AngularApp1.Server.csproj",
-              "RelativeToolTip": "AngularApp1.Server\\AngularApp1.Server.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-01T23:08:13.213Z",
+              "Title": "JwtHandler.cs",
+              "DocumentMoniker": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\AngularApp1.Server\\JwtHandler.cs",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\JwtHandler.cs",
+              "ToolTip": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\AngularApp1.Server\\JwtHandler.cs",
+              "RelativeToolTip": "AngularApp1.Server\\JwtHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T00:27:12.948Z",
               "EditorCaption": ""
             },
             {
@@ -53,48 +41,9 @@
               "RelativeDocumentMoniker": "AngularApp1.Server\\Program.cs",
               "ToolTip": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\AngularApp1.Server\\Program.cs",
               "RelativeToolTip": "AngularApp1.Server\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T23:03:23.545Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ElmosworldContext.cs",
-              "DocumentMoniker": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\DataModel\\ElmosworldContext.cs",
-              "RelativeDocumentMoniker": "DataModel\\ElmosworldContext.cs",
-              "ToolTip": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\DataModel\\ElmosworldContext.cs",
-              "RelativeToolTip": "DataModel\\ElmosworldContext.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBsAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T22:39:32.027Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20241101224950_identity.cs",
-              "DocumentMoniker": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\DataModel\\Migrations\\20241101224950_identity.cs",
-              "RelativeDocumentMoniker": "DataModel\\Migrations\\20241101224950_identity.cs",
-              "ToolTip": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\DataModel\\Migrations\\20241101224950_identity.cs",
-              "RelativeToolTip": "DataModel\\Migrations\\20241101224950_identity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T22:50:42.085Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\DataModel\\AppUser.cs",
-              "RelativeDocumentMoniker": "DataModel\\AppUser.cs",
-              "ToolTip": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\DataModel\\AppUser.cs",
-              "RelativeToolTip": "DataModel\\AppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T22:42:28.476Z",
               "EditorCaption": ""
             },
             {
