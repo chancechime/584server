@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using DataModel;
 using AngularApp1.Server.DTO;
+using Microsoft.AspNetCore.Authorization;
 
 namespace AngularApp1.Server.Controllers
 {
@@ -25,6 +26,7 @@ namespace AngularApp1.Server.Controllers
 
         // GET: api/Countries/5
         [HttpGet("{id}")]
+        [Authorize]
         public async Task<ActionResult<Country>> GetCountry(int id)
         {
             var country = await _context.Countries.FindAsync(id);

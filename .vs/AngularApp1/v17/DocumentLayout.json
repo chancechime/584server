@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C5AAA6C7-2595-401E-82CD-89BBB92DE084}|AngularApp1.Server\\AngularApp1.Server.csproj|c:\\users\\coc22585\\source\\repos\\angularapp1\\angularapp1.server\\controllers\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5AAA6C7-2595-401E-82CD-89BBB92DE084}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\controllers\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C5AAA6C7-2595-401E-82CD-89BBB92DE084}|AngularApp1.Server\\AngularApp1.Server.csproj|c:\\users\\coc22585\\source\\repos\\angularapp1\\angularapp1.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5AAA6C7-2595-401E-82CD-89BBB92DE084}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C5AAA6C7-2595-401E-82CD-89BBB92DE084}|AngularApp1.Server\\AngularApp1.Server.csproj|c:\\users\\coc22585\\source\\repos\\angularapp1\\angularapp1.server\\controllers\\seedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5AAA6C7-2595-401E-82CD-89BBB92DE084}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\controllers\\seedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5AAA6C7-2595-401E-82CD-89BBB92DE084}|AngularApp1.Server\\AngularApp1.Server.csproj|c:\\users\\coc22585\\source\\repos\\angularapp1\\angularapp1.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5AAA6C7-2595-401E-82CD-89BBB92DE084}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C5AAA6C7-2595-401E-82CD-89BBB92DE084}|AngularApp1.Server\\AngularApp1.Server.csproj|c:\\users\\coc22585\\source\\repos\\angularapp1\\angularapp1.server\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5AAA6C7-2595-401E-82CD-89BBB92DE084}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5AAA6C7-2595-401E-82CD-89BBB92DE084}|AngularApp1.Server\\AngularApp1.Server.csproj|c:\\users\\coc22585\\source\\repos\\angularapp1\\angularapp1.server\\jwthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C5AAA6C7-2595-401E-82CD-89BBB92DE084}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\jwthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C5AAA6C7-2595-401E-82CD-89BBB92DE084}|AngularApp1.Server\\AngularApp1.Server.csproj|c:\\users\\coc22585\\source\\repos\\angularapp1\\angularapp1.server\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5AAA6C7-2595-401E-82CD-89BBB92DE084}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5AAA6C7-2595-401E-82CD-89BBB92DE084}|AngularApp1.Server\\AngularApp1.Server.csproj|c:\\users\\coc22585\\source\\repos\\angularapp1\\angularapp1.server\\dto\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5AAA6C7-2595-401E-82CD-89BBB92DE084}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\dto\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5AAA6C7-2595-401E-82CD-89BBB92DE084}|AngularApp1.Server\\AngularApp1.Server.csproj|c:\\users\\coc22585\\source\\repos\\angularapp1\\angularapp1.server\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5AAA6C7-2595-401E-82CD-89BBB92DE084}|AngularApp1.Server\\AngularApp1.Server.csproj|solutionrelative:angularapp1.server\\dto\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,20 +33,63 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 415,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 370,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Admin.cs",
-              "DocumentMoniker": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\AngularApp1.Server\\Controllers\\Admin.cs",
-              "RelativeDocumentMoniker": "AngularApp1.Server\\Controllers\\Admin.cs",
-              "ToolTip": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\AngularApp1.Server\\Controllers\\Admin.cs",
-              "RelativeToolTip": "AngularApp1.Server\\Controllers\\Admin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "CountriesController.cs",
+              "DocumentMoniker": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\AngularApp1.Server\\Controllers\\CountriesController.cs",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\Controllers\\CountriesController.cs",
+              "ToolTip": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\AngularApp1.Server\\Controllers\\CountriesController.cs",
+              "RelativeToolTip": "AngularApp1.Server\\Controllers\\CountriesController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwB8AAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T00:43:25.094Z",
+              "WhenOpened": "2024-11-09T01:34:32.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\AngularApp1.Server\\DTO\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\DTO\\LoginResponse.cs",
+              "ToolTip": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\AngularApp1.Server\\DTO\\LoginResponse.cs",
+              "RelativeToolTip": "AngularApp1.Server\\DTO\\LoginResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T00:45:33.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\AngularApp1.Server\\DTO\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\DTO\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\AngularApp1.Server\\DTO\\LoginRequest.cs",
+              "RelativeToolTip": "AngularApp1.Server\\DTO\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T00:45:14.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\AngularApp1.Server\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "AngularApp1.Server\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\AngularApp1.Server\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "AngularApp1.Server\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T00:38:58.051Z",
               "EditorCaption": ""
             },
             {
@@ -49,40 +100,23 @@
               "RelativeDocumentMoniker": "AngularApp1.Server\\Controllers\\SeedController.cs",
               "ToolTip": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\AngularApp1.Server\\Controllers\\SeedController.cs",
               "RelativeToolTip": "AngularApp1.Server\\Controllers\\SeedController.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAowGYAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAqwGoAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-02T00:40:41.101Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "JwtHandler.cs",
-              "DocumentMoniker": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\AngularApp1.Server\\JwtHandler.cs",
-              "RelativeDocumentMoniker": "AngularApp1.Server\\JwtHandler.cs",
-              "ToolTip": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\AngularApp1.Server\\JwtHandler.cs",
-              "RelativeToolTip": "AngularApp1.Server\\JwtHandler.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-02T00:27:12.948Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\AngularApp1.Server\\Program.cs",
               "RelativeDocumentMoniker": "AngularApp1.Server\\Program.cs",
               "ToolTip": "C:\\Users\\coc22585\\source\\repos\\AngularApp1\\AngularApp1.Server\\Program.cs",
               "RelativeToolTip": "AngularApp1.Server\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADUAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwBQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-01T23:03:23.545Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         }
