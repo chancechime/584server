@@ -19,6 +19,7 @@ namespace AngularApp1.Server.Controllers
 
         // GET: api/Countries
         [HttpGet]
+        [Authorize]
         public async Task<ActionResult<IEnumerable<Country>>> GetCountries()
         {
             return await _context.Countries.ToListAsync();
@@ -41,7 +42,7 @@ namespace AngularApp1.Server.Controllers
 
         // GET: api/CountryPopulation/5
         [HttpGet("countrypopulation/{id}")]
-
+        [Authorize]
         public async Task<ActionResult<CountryPopulation>> GetCountryPopulation(int id)
         {
             Country? country = await _context.Countries.FindAsync(id);

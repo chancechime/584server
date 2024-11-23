@@ -12,7 +12,7 @@
           "DataModel": "1.0.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "8.0.10",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.10",
-          "Microsoft.AspNetCore.SpaProxy": "8.0.10",
+          "Microsoft.AspNetCore.SpaProxy": "8.0.11",
           "Microsoft.Configuration.ConfigurationBuilders.Environment": "3.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.10",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.10",
@@ -657,11 +657,11 @@
           }
         }
       },
-      "Microsoft.AspNetCore.SpaProxy/8.0.10": {
+      "Microsoft.AspNetCore.SpaProxy/8.0.11": {
         "runtime": {
           "lib/net8.0/Microsoft.AspNetCore.SpaProxy.dll": {
-            "assemblyVersion": "8.0.10.0",
-            "fileVersion": "8.0.1024.46804"
+            "assemblyVersion": "8.0.11.0",
+            "fileVersion": "8.0.1124.52116"
           }
         }
       },
@@ -2515,12 +2515,12 @@
       "path": "microsoft.aspnetcore.razor.language/6.0.24",
       "hashPath": "microsoft.aspnetcore.razor.language.6.0.24.nupkg.sha512"
     },
-    "Microsoft.AspNetCore.SpaProxy/8.0.10": {
+    "Microsoft.AspNetCore.SpaProxy/8.0.11": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-8oqu48JT85gDrgkS8nbrIBYY4R+u3twEnycD8zSJJUVfw+Y14BmkymSGtH413ev3hc4hq4le9fD0P5468NlNbg==",
-      "path": "microsoft.aspnetcore.spaproxy/8.0.10",
-      "hashPath": "microsoft.aspnetcore.spaproxy.8.0.10.nupkg.sha512"
+      "sha512": "sha512-jwE/cg81t/FTZF1DOKpd90ztzZz6NNNHdo+vLUL4I2IzqL3e8Coo+2eR0KeD4ShbJm+3LNPXH9a6gYv/oP+aQQ==",
+      "path": "microsoft.aspnetcore.spaproxy/8.0.11",
+      "hashPath": "microsoft.aspnetcore.spaproxy.8.0.11.nupkg.sha512"
     },
     "Microsoft.Bcl.AsyncInterfaces/7.0.0": {
       "type": "package",
